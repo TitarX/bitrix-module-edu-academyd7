@@ -1,0 +1,1 @@
+# bitrix-edu-module-academyd7
