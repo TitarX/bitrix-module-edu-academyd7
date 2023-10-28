@@ -1,1 +1,1 @@
-# bitrix-edu-module-academyd7
+# Sample module from training course
